@@ -1,0 +1,6 @@
+/build/
+/WebContent/common/images
+.DS_Store
+.classpath
+.project
+.settings
